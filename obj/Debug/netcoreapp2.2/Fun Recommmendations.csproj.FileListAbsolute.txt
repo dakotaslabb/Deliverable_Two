@@ -1,0 +1,11 @@
+C:\Users\Dakota\source\repos\Fun Recommmendations\bin\Debug\netcoreapp2.2\Fun Recommmendations.deps.json
+C:\Users\Dakota\source\repos\Fun Recommmendations\bin\Debug\netcoreapp2.2\Fun Recommmendations.runtimeconfig.json
+C:\Users\Dakota\source\repos\Fun Recommmendations\bin\Debug\netcoreapp2.2\Fun Recommmendations.runtimeconfig.dev.json
+C:\Users\Dakota\source\repos\Fun Recommmendations\bin\Debug\netcoreapp2.2\Fun Recommmendations.dll
+C:\Users\Dakota\source\repos\Fun Recommmendations\bin\Debug\netcoreapp2.2\Fun Recommmendations.pdb
+C:\Users\Dakota\source\repos\Fun Recommmendations\obj\Debug\netcoreapp2.2\Fun Recommmendations.csprojAssemblyReference.cache
+C:\Users\Dakota\source\repos\Fun Recommmendations\obj\Debug\netcoreapp2.2\Fun Recommmendations.csproj.CoreCompileInputs.cache
+C:\Users\Dakota\source\repos\Fun Recommmendations\obj\Debug\netcoreapp2.2\Fun Recommmendations.AssemblyInfoInputs.cache
+C:\Users\Dakota\source\repos\Fun Recommmendations\obj\Debug\netcoreapp2.2\Fun Recommmendations.AssemblyInfo.cs
+C:\Users\Dakota\source\repos\Fun Recommmendations\obj\Debug\netcoreapp2.2\Fun Recommmendations.dll
+C:\Users\Dakota\source\repos\Fun Recommmendations\obj\Debug\netcoreapp2.2\Fun Recommmendations.pdb
